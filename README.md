@@ -5,4 +5,4 @@ In this project, I have used the model architecture given in this report [Convol
 Dataset consists of discrete age of people and I mapped them into the 8 different ranges and used one-hot encoding for both the age and gender prediction model. I used `tensorflow` and `keras` the main tools for this project.
 
 ### Future work
-Improvement can be done after adding one step which extracts the face from the images and that data is used for the training that might increase the performance and also the project can be extended further for video type data.
+This can be improved after adding one step which extracts the face from the images and that data is used for the training that might increase the performance, and also the project can be extended further for video type data.
